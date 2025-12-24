@@ -148,4 +148,4 @@ Welcome to the repository for our full stack eCommerce website built using the P
 - **JWT_AUTH_KEY** (Authorization key for Secure Frontend & Backend Communication)
 - **GOOGLE_CLIENT_ID** (Google Client ID for OAuth)
 - **GOOGLE_CLIENT_SECRET** (Google Client Secret for OAuth)
-- **STRIPE_PUBLISHABLE_KEY** (Stripe Key for Payment Gateway)
+

@@ -50,7 +50,7 @@ Welcome to the repository for our full stack eCommerce website built using the P
    git clone https://github.com/aquacommander/Ecommerce.git
 2. Navigate to the project directory:
    ```sh
-   cd ecommerce-website
+   cd Ecommerce
 3. Install dependencies for the server:
    ```sh
    cd Server & npm install
